@@ -46,7 +46,7 @@ Matricola | Voto | Note
 108343|	20	|	
 83475|	19|		
 100935|	21|	Accetato, da registrare
-108150|	17,5|		
+108150|	INS|		
 116659|	22|		
 111350|	30|	Accettato, da registrare
 111038|	25,5|		
