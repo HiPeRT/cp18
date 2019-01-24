@@ -5,23 +5,23 @@ Lo stesso se volete accettare il voto come tale o presentarvi all'orale.
 
 Matricola | Voto | Note
 ----------|------|-----
-111829 |	24	|	progetto + tirocinio
-84120	| 20	| accetta il voto (vedi e-mail)
-110602|	27,5|		progetto + tirocinio
+111829 |	24	|	Tirocinio
+84120	| 20	| Accettato	da registrare
+110602|	27,5|	Tirocinio
 108153|	|
-107896|	21	|accetta il voto
-111182|	29	|accetta il voto (vedi e-mail)
+107896|	21	| Accettato	da registrare
+111182|	29	| Accettato	da registrare
 88400	| 28	|	
 101348|	ASS	|	
-98131	|16,5	|	
+98131	| INS	|	
 113197|			
 113328|			
 110791|
 107581|	27	|
 109751|	20	|
-116659|13,5	|	
-111759|	22	|accetta il voto (vedi e-mail)
-111350|	25	|dopo orale. Forse si ripresenta allo scritto
+116659| INS |	
+111759|	22	| Accettato	da registrare
+111350|	25	| Dopo orale
 108801|	29	|
 112864|	29	|
 113204			
