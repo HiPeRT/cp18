@@ -6,25 +6,20 @@ Lo stesso se volete accettare il voto come tale o presentarvi all'orale.
 Matricola | Voto | Note
 ----------|------|-----
 111829 |	24	|	Tirocinio
-84120	| 20	| Accettato	da registrare
-110602|	27,5|	Tirocinio
-108153|	|
-107896|	21	| Accettato	da registrare
-111182|	29	| Accettato	da registrare
-88400	| 28	|	
-101348|	ASS	|	
-98131	| INS	|	
-113197|			
-113328|			
-110791|
-107581|	27	|
-109751|	20	|
-116659| INS |	
-111759|	22	| Accettato	da registrare
-111350|	25	| Dopo orale
-108801|	29	|
-112864|	29	|
-113204			
+84120	 |  20  | Accettato	da registrare
+110602 | 17,5 |	Tirocinio
+108153 | INS	|
+107896 |	21	| Accettato	da registrare
+111182 |	29	| Accettato	da registrare
+88400	 |  28	|	
+98131	 | INS	|	
+107581 |	27	|
+109751 |	20	|
+116659 | INS  |	
+111759 |	22	| Accettato	da registrare
+111350 |	25	| Dopo orale
+108801 |	29	|
+112864 |	29	|
 
 
 # Risultati della prova del 21/01/2019
