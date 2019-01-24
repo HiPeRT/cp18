@@ -1,6 +1,6 @@
 # FAQ
 
-<a>http://hipert.unimore.it/people/paolob/pub/Calcolo_Parallelo/FAQ.html">FAQ</a>
+<a href="http://hipert.unimore.it/people/paolob/pub/Calcolo_Parallelo/FAQ.html">FAQ</a>
 
 # Risultati della prova del 08/01/2019
 
@@ -44,7 +44,7 @@ Matricola | Voto | Note
 113328|	26,5|		Tirocinio
 108343|	20	|	
 83475|	19|		
-100935|	21|	Accetato, da registrare
+100935|	21|	Accettato, da registrare
 108150|	INS|		
 116659|	22|		
 111350|	30|	Accettato, da registrare
