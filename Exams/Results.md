@@ -7,7 +7,7 @@ Matricola | Voto | Note
 ----------|------|-----
 111829 |	24	|	Tirocinio
 84120	 |  20  | Accettato	da registrare
-110602 | 17,5 |	Tirocinio
+110602 | 27,5 |	Tirocinio
 108153 | INS	|
 107896 |	21	| Accettato	da registrare
 111182 |	29	| Accettato	da registrare
