@@ -31,23 +31,23 @@ Matricola | Voto | Note
 Matricola | Voto | Note
 ----------|------|-----
 111032|	22,5	|	Tirocinio
-108153|	20|		
-107889|	20|		
+108153|	20|	Accettato, da registrare	
+107889|	20|	Accettato, da registrare	
 108400|	22|		
 88316	|19|		
 110791|	19|		
 88400	|27	|	Tirocinio
-101348|	19| Accettato	da registrare
+101348|	19| Accettato,	da registrare
 110187|	20,5|		
 98131|	26|		
-113197|	20|		
+113197|	20|	Accettato, da registrare	
 113328|	26,5|		Tirocinio
-108343|	20	|	
-83475|	19|		
+108343|	20	|	Accettato, da registrare
+83475|	19|	Accettato, da registrare	
 100935|	21|	Accettato, da registrare
 108150|	INS|		
 116659|	22|		
 111350|	30|	Accettato, da registrare
-111038|	25,5|		
+111038|	25| Accettato, da registrare		
 113204|	20	|		
 116774|	26,5|		
