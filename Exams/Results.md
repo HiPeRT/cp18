@@ -22,8 +22,8 @@ Matricola | Voto | Note
 116659 | INS  |	
 111759 |	22	| Accettato	da registrare
 111350 |	25	| Dopo orale
-108801 |	29	|
-112864 |	29	|
+108801 |	29	| Accettato	da registrare
+112864 |	29	| Tirocinio
 
 
 # Risultati della prova del 21/01/2019
