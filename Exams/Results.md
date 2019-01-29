@@ -49,5 +49,5 @@ Matricola | Voto | Note
 116659|	22|		
 111350|	30|	Accettato, da registrare
 111038|	25| Accettato, da registrare		
-113204|	20	|		
+113204|	20	|	Accettato, da registrare	
 116774|	26,5|		
