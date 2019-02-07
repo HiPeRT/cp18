@@ -56,15 +56,15 @@ Matricola | Voto | Note
 
 Matricola | Voto | Note
 ----------|------|-----
-108935	|		|	Da correggere
-110605	|		|	Da correggere
-102269	|	20	|	Accettato
-110791	|	21	|	Accettato
-110187	|		|	
-101924	|	20	|	Accettato
-107821	|		|	Da correggere
-112688	|		|	Da correggere
-108150	|		|	Da correggere
-91975	|		|	Da correggere
-101635	|	25	|	Accettato
-101101  | 23  | Tirocinio
+108935	|  INS	|
+110605	|  INS	|
+102269	|	20	| Accettato, da registrare
+110791	|	21	| Accettato, da registrare
+110187	|	23	|	
+101924	|	20	| Accettato, da registrare
+107821	|  INS	|
+112688	|   18	|
+108150	|   28	|
+91975	|	21	|
+101635	|	25	| Accettato, da registrare
+101101  |   23  | Tirocinio
