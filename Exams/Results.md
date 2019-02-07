@@ -67,3 +67,4 @@ Matricola | Voto | Note
 108150	|		|	Da correggere
 91975	|		|	Da correggere
 101635	|	25	|	Accettato
+101101  | 23  | Tirocinio
