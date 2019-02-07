@@ -2,10 +2,10 @@
 
 <a href="http://hipert.unimore.it/people/paolob/pub/Calcolo_Parallelo/FAQ.html">FAQ</a>
 
-# Risultati della prova del 08/01/2019
-
 Se il vostro voto non compare o non è ancora stato accettato, si prega di contattare i docenti via mail.
 Lo stesso se volete accettare il voto come tale o presentarvi all'orale.
+
+# Risultati della prova del 08/01/2019
 
 Matricola | Voto | Note
 ----------|------|-----
