@@ -15,7 +15,7 @@ Matricola | Voto | Note
 108153 | INS	|
 107896 |	21	| Accettato, da registrare
 111182 |	29	| Accettato, da registrare
-88400	 |  28	|	
+88400	 |  28	|	Progetto + tirocinio (refuso sul voto)
 98131	 | INS	|	
 107581 |	27	|
 109751 |	20	|	Accettato, da registrare
