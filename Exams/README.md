@@ -21,6 +21,7 @@ Matricola | Voto | Note
 109751 |	20	|	Accettato, da registrare
 116659 | INS  |
 111759 |	22	| Accettato, da registrare
+111350 |  25  | Dopo orale, si ripresenta allo scritto
 108801 |	29	| Accettato, da registrare
 112864 |	29	| Progetto + tirocinio
 
