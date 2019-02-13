@@ -15,13 +15,13 @@ Matricola | Voto | Note
 108153 | INS	|
 107896 |	21	| Accettato, da registrare
 111182 |	29	| Accettato, da registrare
-88400	 |  28	|	Progetto + tirocinio (refuso sul voto)
+88400	 | INS	|
 98131	 | INS	|	
-107581 |	27	|
+107581 |	27	| Accettato, da registrare
 109751 |	20	|	Accettato, da registrare
 116659 | INS  |
 111759 |	22	| Accettato, da registrare
-111350 |  25  | Dopo orale, si ripresenta allo scritto
+111350 |  25  | Rifiutato dopo orale, si ripresenta allo scritto
 108801 |	29	| Accettato, da registrare
 112864 |	29	| Progetto + tirocinio
 
@@ -39,9 +39,9 @@ Matricola | Voto | Note
 88400	|27	|	Progetto + tirocinio
 101348|	19| Accettato,da registrare
 110187|	20,5|		
-98131|	26|		
+98131|	26|	Accettato, da registrare
 113197|	20|	Accettato, da registrare	
-113328|	26,5|	Orale + Progetto + tirocinio
+113328|	29|	Dopo orale, da registrare
 108343|	20	|	Accettato, da registrare
 83475|	19|	Accettato, da registrare	
 100935|	21|	Accettato, da registrare
@@ -50,7 +50,7 @@ Matricola | Voto | Note
 111350|	30|	Accettato, da registrare
 111038|	25| Accettato, da registrare		
 113204|	20	|	Accettato, da registrare	
-116774|	26,5|		
+116774|	26,5|	
 
 # Risultati della prova del 07/02/2019
 
@@ -65,6 +65,6 @@ Matricola | Voto | Note
 107821	|  INS	|
 112688	|   18	|
 108150	|   28	| Accettato, da registrare
-91975	|	21	|
+91975	|	21	| Accettato, da registrare
 101635	|	25	| Accettato, da registrare
 101101  |   23  | Progetto + tirocinio
