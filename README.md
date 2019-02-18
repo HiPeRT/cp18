@@ -3,7 +3,7 @@ This is official repository of the course Calcolo Parallelo LT, Year 2018/19, at
 
 <a href="http://hipert.unimore.it/people/paolob/pub/Calcolo_Parallelo/">Course page</a>
 
-<a href="http://hipert.unimore.it/people/paolob/pub/Calcolo_Parallelo/FAQ.html">FAQ</a>
+<a href="https://github.com/HiPeRT/cp18/blob/master/FAQ.md">FAQ</a>
 
 ## Folder structure
 
