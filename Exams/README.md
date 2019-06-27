@@ -26,7 +26,7 @@ Matricola | Voto | Note
 109417  | 27 | Accettato, da registrare
 100425  | 29 | Accettato, da registrare
 
-# Risultati della prova del 07/02/2019
+# Risultati della prova del 07/02/2019 - VERBALE CHIUSO
 
 Matricola | Voto | Note
 ----------|------|-----
