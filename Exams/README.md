@@ -78,7 +78,7 @@ Matricola | Voto | Note
 110605  | RIT |
 111992  | RIT |
 83509 | 26 |
-97694 | 27 |
+97694 | 27 | Accettato, da registrare
 112996  | 23 |
 100702  | 30 |
 112464  | 27,5 |
