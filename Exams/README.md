@@ -87,4 +87,4 @@ Matricola | Voto | Note
 111759 |	22	| Accettato, da registrare
 111350 |  25  | Rifiutato dopo orale, si ripresenta allo scritto
 108801 |	29	| Accettato, da registrare
-112864 |	29	| Progetto + tirocinio
+112864 |	29	| Accettato, da registrare
