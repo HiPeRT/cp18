@@ -87,5 +87,5 @@ Matricola | Voto | Note
 88780   | RIT |
 91875   | RIT |
 107266  | ASS |
-109417  | 27 |
-100425  | 29 |
+109417  | 27 | Accettato, da registrare
+100425  | 29 | Accettato, da registrare
