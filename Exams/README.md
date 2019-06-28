@@ -5,7 +5,7 @@
 Se il vostro voto non compare o non è ancora stato accettato, si prega di contattare i docenti via mail.
 Lo stesso se volete accettare il voto come tale o presentarvi all'orale.
 
-# Risultati della prova del 24/06/2019
+# Risultati della prova del 24/06/2019 - VERBALE CHIUSO
 
 Matricola | Voto | Note
 ----------|------|-----
@@ -13,13 +13,13 @@ Matricola | Voto | Note
 110602 | 30 L | Tirocinio
 110605  | RIT |
 111992  | RIT |
-83509 | 26 |
+83509 | 26 | Accettato, da registrare
 97694 | 27 | Accettato, da registrare
-112996  | 23 |
-100702  | 30 |
-112464  | 27,5 |
+112996  | 23 | Accettato, da registrare
+100702  | 30 | Accettato, da registrare
+112464  | 27,5 | Accettato, da registrare
 92469   | INS |
-106887  |27,5 |
+106887  |27,5 | Accettato, da registrare
 88780   | RIT |
 91875   | RIT |
 107266  | ASS |
