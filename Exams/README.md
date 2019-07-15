@@ -12,7 +12,7 @@ Matricola | Voto | Note
 108935	|	26	|	Accettato, da registrare
 76602	|	ASS	|	
 66749	|	18	|	
-110605	|	ASS	|
+110605	|	24	| Accettato, da registrare
 111992	|	ASS	|	
 106891	|	25	|	In sospeso per mancanza propedeuticit&agrave;
 107541	|	30	|	
