@@ -5,6 +5,28 @@
 Se il vostro voto non compare o non è ancora stato accettato, si prega di contattare i docenti via mail.
 Lo stesso se volete accettare il voto come tale o presentarvi all'orale.
 
+# Risultati della prova del 15/07/2019
+
+Matricola | Voto | Note
+----------|------|-----
+108935	|	26	|	Accettato, da registrare
+76602	|	ASS	|	
+66749	|	18	|	
+110605	|	ASS	|
+111992	|	ASS	|	
+106891	|	25	|	In sospeso per mancanza propedeuticit&agrave;
+107541	|	30	|	
+103368	|	29	|	In sospeso per mancanza propedeuticit&agrave;
+110187	|	26	|	Tirocinio
+92469	|	20	|	Accettato, da registrare
+103127	|	29	|	
+88780	|		|	
+91875	|	22	|	Accettato, da registrare
+98911	|	26	|	Accettato, da registrare
+107266	|	26	|	Accettato, da registrare
+79485	|	ASS	|	
+
+
 # Risultati della prova del 24/06/2019 - VERBALE CHIUSO
 
 Matricola | Voto | Note
